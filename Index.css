@@ -1,0 +1,97 @@
+.f{
+	font-family: "Press Start 2P";
+}
+.fundo{
+	width: 900;
+	height: 100%; 
+	margin: auto;
+	background-color: black;
+
+}
+.conteudo{
+	background-color: #000000;
+	background-size: fixed;
+	background-clip: border-box;
+
+}
+.TbCima{
+	width: 100%;
+	text-align: center;
+}
+
+.Texto{
+	text-align: center;
+	font-size: 13px;
+	float: right;
+	font-weight: bold;
+	width: 100%;
+	text-align: center;
+}
+.baixo{
+    text-align: center;
+}
+.t2{
+	text-align: center;
+	font-size: 11px;
+
+}
+a{	text-decoration: none;
+	color: #00FF00;
+}
+.tb{
+	font-size:10px;
+	position: relative;
+	top: 20px;
+	left: 5%;
+	line-height: 1.5;
+	list-style: none;
+}
+
+.t3{
+	line-height: 1.7;
+	text-align: left;
+	font-size: 10px;
+}
+body::-webkit-scrollbar{
+  background: black;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: #00FF00;      
+
+}
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+    border-color: #00FF00;
+}
+nav>a:hover{
+	color: #0000CD;
+}
+nav{
+	width: 100%;
+	text-align: center;
+}
+nav>a{
+	padding: 50px;
+}
+li>a:hover{
+	color: #0000CD;
+}
+.txtc{
+	width: 100%;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 26px;
+
+}
+.lista1{
+
+}
