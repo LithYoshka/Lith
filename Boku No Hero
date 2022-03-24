@@ -1,0 +1,57 @@
+<doctype html>
+<html lang="pt-br">
+<head>
+<title>Anime list</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css"
+href="Index.css">
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+
+
+<body class="f fundo" text="#00FF00">
+<div class="conteudo">
+
+	<span>Indice:</span>
+	<div>
+		
+	<nav class="txtc">
+		<tr> 
+			<th colspan="4"><a href="Index.html">Anime List Site</a><br><br></th>
+		</tr>
+</nav>
+	<nav>
+		<tr>
+			<td><a href="Lista1" target="blank" title="Lista de animes">Animes</a></td>
+			<td><a>Filmes</a></td>
+			<td><a>Mangas</a></td>
+		</tr>
+	<div class="t3">
+	<br>
+	<br>
+	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.ign.com%2Fmy-hero-academia&psig=AOvVaw2X_3YaXuOzzwJMgMW9-EQY&ust=1648249394125000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCOilqc7t3_YCFQAAAAAdAAAAABAD" width="600px">
+	<dd><br>Boku No Hero<br><br></dd>
+	<span >Shounen;<br>
+	Estúdio: Maho Film<br>
+	Origem: Mangá<br>
+	Data de estreia: 02/10/2020<br><br>
+	Sinopse: Boku no Hero conta a história de Izuku "Deku" Midoriya, um jovem que nasceu sem Indivualidade (poder) em um mundo em que 80% da população manifesta ao menos uma desde criança. O sonho do jovem de se tornar um herói, inspirado pelo herói nº 1, All Might, é massacrado pela descoberta.<br><br>
+
+	<br> Nota:11
+	<br><br>
+	<a href="eps.html">Episodios</a>
+
+</span>
+	<br><br>
+<div>
+</nav>
+  
+  <div class="t2">
+    <br><br><br>
+  
+  </div>
+  
+</div>
+<footer class="baixo">Ir para o topo</footer>
+<body>
+</html>
