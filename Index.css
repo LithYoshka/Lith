@@ -92,6 +92,7 @@ li>a:hover{
 	font-size: 26px;
 
 }
+
 #toggle-1 {
    display:none;
 }
@@ -105,11 +106,11 @@ label {
 }
 
 /* CSS padrão da div */
-bnhaT1 {
+.bnhaT1 {
    display:none;
 }
 
 /* CSS quando o checkbox está marcado */
-#toggle-1:checked ~ bnhaT1 {
+#toggle-1:checked ~ .bnhaT1 {
    display:block;
 }
