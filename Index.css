@@ -114,3 +114,7 @@ label {
 #toggle-1:checked ~ .bnhaT1 {
    display:block;
 }
+
+@media (max-width: 900px){
+	label.logo{
+	}
